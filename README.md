@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Full-Stack Developer from Mauritania** focused on building practical, scalable, and user-focused applications.
 
@@ -26,19 +26,19 @@ I believe the best way to learn software engineering is to **build real projects
 
 ---
 
-## 🚀 What I'm Currently Doing
+## What I'm Currently Doing
 
-* 🔭 Building **MERN stack applications**
-* 🌱 Learning **TypeScript, Next.js, PostgreSQL, Redis, Docker, and system design**
-* 🛠️ Building projects to strengthen my **full-stack development and backend engineering** skills
-* 🤖 Exploring **AI-powered applications and API integrations**
-* 📱 Learning **React Native** for cross-platform mobile development
-* 🐧 Working daily with **Linux, Git, GitHub, and developer tooling**
-* ✍️ Sharing what I learn through projects and developer content
+*  Building **MERN stack applications**
+*  Learning **TypeScript, Next.js, PostgreSQL, Redis, Docker, and system design**
+*  Building projects to strengthen my **full-stack development and backend engineering** skills
+*  Exploring **AI-powered applications and API integrations**
+*  Learning **React Native** for cross-platform mobile development
+*  Working daily with **Linux, Git, GitHub, and developer tooling**
+*  Sharing what I learn through projects and developer content
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -150,7 +150,7 @@ I use my GitHub to document my learning and build practical applications coverin
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/m-mahmoud-dev">
@@ -163,7 +163,7 @@ I use my GitHub to document my learning and build practical applications coverin
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-dev&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
@@ -179,7 +179,7 @@ I use my GitHub to document my learning and build practical applications coverin
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I work in telecommunications, but my long-term focus is **software engineering**.
 So my day can involve everything from **network signaling and production troubleshooting to React components and Node.js APIs**.
