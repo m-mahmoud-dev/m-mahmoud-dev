@@ -165,14 +165,7 @@ I use my GitHub to document my learning and build practical applications coverin
 
 ##  GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-dev&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-dev&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m-mahmoud-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="Mohamed Mahmoud's GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahmoud-dev&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800" alt="Mohamed Mahmoud's Top Languages" height="180" /> </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mahmoud-dev&hide_border=true" alt="GitHub Streak"/>
 </p>
